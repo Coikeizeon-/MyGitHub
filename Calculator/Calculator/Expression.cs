@@ -80,7 +80,7 @@ namespace Calculator
         /// <returns></returns>
         public virtual double GetValue()
         {
-            return 0;
+            return 0; 
         }
 
     }
