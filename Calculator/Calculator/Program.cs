@@ -10,6 +10,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("请输入表达式：");
             string str = Console.ReadLine();
 
 

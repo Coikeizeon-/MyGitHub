@@ -41,7 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OptAttribute.cs" />
+    <Compile Include="ExpressionSon.cs" />
     <Compile Include="Expression.cs" />
+    <Compile Include="ExpressionHandle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
